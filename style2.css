@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding-top: 70px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+body h2 {
+    padding-left: 10px;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    position: fixed;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 20px;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+nav ul li a:hover {
+    background: lightgreen;
+    transition: 0.5s;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+main h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.team {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.member {
+    text-align: center;
+}
+
+.member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.member p {
+    margin: 10px 0 0;
+}
+
+.join-team {
+    margin-top: 40px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 10px;
+}
+
+.join-team h3 {
+    margin-bottom: 10px;
+}
+
+.join-team button {
+    background-color: #c2185b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+
+}
+
+.join-team button:hover {
+    background-color: #9c1a46;
+}
+
+.contact p {
+    margin: 20px 0;
+    font-size: 1.2em;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.contact{
+    padding: 10px 10px;
+    text-align: center;
+}
