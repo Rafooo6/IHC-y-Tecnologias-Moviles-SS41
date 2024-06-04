@@ -20,5 +20,6 @@ function moveCarousel(direction) {
     showItem(currentIndex);
 }
 
-// Initialize the first item as active
 showItem(currentIndex);
+
+
