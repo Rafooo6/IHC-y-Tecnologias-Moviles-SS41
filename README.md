@@ -13,5 +13,5 @@ Una plataforma web innovadora que brinda alertas de brotes de enfermedades a las
 
 **Brotessapp** es una herramienta esencial para la salud pública en el Perú. La aplicación proporciona alertas en tiempo real sobre brotes de enfermedades como viruela, dengue, influenza y gripe, entre otras. Al utilizar la ubicación GPS del usuario o permitir la selección manual de áreas, "Brotessapp" ofrece información precisa y relevante sobre los riesgos de salud en diferentes regiones.
 
-Las características principales incluyen:
+Mobile prototyping(Figma):https://www.figma.com/design/O0vH1yX1D5mbE8Mwwew9Ax/PrototipoIHC?node-id=0-1&t=o4YQgcYyhcwrJdsP-1 
 
