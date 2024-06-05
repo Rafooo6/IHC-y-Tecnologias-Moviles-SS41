@@ -25,7 +25,7 @@ Una plataforma web innovadora que brinda alertas de brotes de enfermedades a las
 
 Mobile prototyping (Figma):https://www.figma.com/design/O0vH1yX1D5mbE8Mwwew9Ax/PrototipoIHC?node-id=0-1&t=o4YQgcYyhcwrJdsP-1 
 
-asdasdsadasd
+
 LandingPAge: https://rafooo6.github.io/IHC-y-Tecnologias-Moviles-SS41/index.html
 
 04/06/2024
