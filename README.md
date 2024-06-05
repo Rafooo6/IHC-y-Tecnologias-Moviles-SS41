@@ -1,5 +1,17 @@
-# IHC-y-Tecnologias-Moviles-SS41
+# IHC-y-Tecnologias-Moviles-SS41 Semana 12
 # Brotessapp
+
+Team lider:
+
+Rafael Bravo
+
+Integrantes:
+
+Diaz Mendoza, Heysser Adhemir
+Maraza Pedemonte, Erick
+Zarate Gutierrez, Wilson Diego
+Soto Zorrilla, Oscar Eduardo
+Arevalo Nuñez, Leandro
 
 Una plataforma web innovadora que brinda alertas de brotes de enfermedades a las comunidades del Perú.
 
@@ -16,3 +28,4 @@ Mobile prototyping (Figma):https://www.figma.com/design/O0vH1yX1D5mbE8Mwwew9Ax/P
 
 LandingPAge: https://rafooo6.github.io/IHC-y-Tecnologias-Moviles-SS41/index.html
 
+04/06/2024
