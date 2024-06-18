@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background: lightgreen;
+    background: #3f9bab;
     transition: 0.5s;
 }
 

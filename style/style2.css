@@ -2,8 +2,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding-top: 70px;
-    background-color: #f9f9f9;
-    color: #333;
+    background-image: linear-gradient(to top, #9cd2d3 0%, #9cd2d3 100%);
+    background-color: #9cd2d3;
+    color: #000000;
 }
 
 body h2 {
@@ -39,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background: lightgreen;
+    background: #3f9bab;
     transition: 0.5s;
 }
 
@@ -117,16 +118,20 @@ main h2 {
     font-size: 1.2em;
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    
 }
 
 footer{
+    display: flex;
+    flex-direction: column;
     text-align: center;
     width: 100%;
     padding-bottom: 20px;
 }
 
 .contact{
+    display: flex;
+    flex-direction: column;
     padding: 10px 10px;
     text-align: center;
 }
