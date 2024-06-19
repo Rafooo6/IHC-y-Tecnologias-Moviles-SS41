@@ -126,10 +126,22 @@ body {
     cursor: pointer;
 }
 
+.main_input--new {
+    background-color: #28c9ff;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+
 .main_input--send:hover {
     color: black;
     transition: .5s;
     background-color: #cdcdcd;
+}
+.main_input--new:hover {
+    color: black;
+    transition: .5s;
+    background-color: #fff;
 }
 
 .main_social {
