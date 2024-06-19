@@ -121,17 +121,19 @@ main h2 {
     
 }
 
-footer{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    width: 100%;
-    padding-bottom: 20px;
-}
+
 
 .contact{
     display: flex;
     flex-direction: column;
     padding: 10px 10px;
+    text-align: center;
+}
+
+footer{
+    background-color: #6a6a6a;
+    color: #fff;
+    padding: 20px;
+    margin-top: 50px;
     text-align: center;
 }
