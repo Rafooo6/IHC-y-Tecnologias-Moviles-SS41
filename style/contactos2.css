@@ -79,7 +79,7 @@ nav ul li a:hover {
 }
 .contact-form button {
     padding: 10px;
-    background-color: #ffc107;
+    background-color: #114c5f;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -89,7 +89,8 @@ nav ul li a:hover {
     
 }
 .contact-form button:hover {
-    background-color: #e0a800;
+    color: black;
+    background-color: #cdcdcd;
 }
 
 .input_nombre{
