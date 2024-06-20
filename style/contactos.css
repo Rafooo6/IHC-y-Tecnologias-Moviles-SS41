@@ -44,64 +44,77 @@ nav ul li a:hover {
     transition: 0.5s;
 }
 
+.emergencyContacts {
+    padding-left: 32%;
+}
 
-.map {
-    width: 50%;
-    height: 100%;
-    padding: 50px;
-    justify-content: right;
-    display: flex;
+.container {
+    border: 1px solid black;
+    width: 80%;
+    max-width: 600px;
+    background-color: white;
+    padding: 30px;
+    display: inline-block;
+}
 
+.searchbox {
+    margin-bottom: 20px;
 }
-.map iframe {
-    border: none;
-}
-.contact-form {
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    padding-left: 10%;
 
-}
-.contact-form h2 {
-    margin-top: 0;
-    padding-top: 2%;
-}
-.input_sintomas {
+.searchbox input {
     width: 100%;
-    height: 250px;
-    padding: 10%;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 20px;
-
-    
-}
-.contact-form button {
     padding: 10px;
-    background-color: #114c5f;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
     font-size: 16px;
-    color: white;
-    
-    
-}
-.contact-form button:hover {
-    background-color: #e0a800;
 }
 
-.input_nombre{
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 20px;
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.boton-context {
+    border: 1px solid black;
+    width: 48%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.boton-context:hover{
+    background-color: #3f9bab;
+}
+
+.text {
+
+    color: black;
+    font-size: 20px;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.image {
+    background-color: #ccc;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.image img {
+    width: 48%;
+    height: 90%;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+   
 
 }
 
-footer{
+footer {
     background-color: #6a6a6a;
     color: #fff;
     padding: 20px;

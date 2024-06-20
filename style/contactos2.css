@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding-top: 70px;
+    background-image: linear-gradient(to top, #9cd2d3 0%, #9cd2d3 100%);
+    background-color: #9cd2d3;
+    color: #000000;
+}
+
+body h2 {
+    padding-left: 10px;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    position: fixed;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 20px;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+nav ul li a:hover {
+    background: #3f9bab;
+    transition: 0.5s;
+}
+
+
+.map {
+    width: 50%;
+    height: 100%;
+    padding: 50px;
+    justify-content: right;
+    display: flex;
+
+}
+.map iframe {
+    border: none;
+}
+.contact-form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+
+}
+.contact-form h2 {
+    margin-top: 0;
+    padding-top: 2%;
+}
+.input_sintomas {
+    width: 100%;
+    height: 250px;
+    padding: 10%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+
+    
+}
+.contact-form button {
+    padding: 10px;
+    background-color: #ffc107;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    
+    
+}
+.contact-form button:hover {
+    background-color: #e0a800;
+}
+
+.input_nombre{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+
+}
+
+footer{
+    background-color: #6a6a6a;
+    color: #fff;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
